@@ -47,32 +47,27 @@ Web config stays the same in either case
 Packages
 ========
 
-Dist related
-------------
+**Dist related**
 
-gulp
-gulp-autoprefixer
-gulp-browserify
-gulp-cssnano
-gulp-sass
-gulp-sourcemaps
-gulp-uglify
+* gulp
+* gulp-autoprefixer
+* gulp-browserify
+* gulp-cssnano
+* gulp-sass
+* gulp-sourcemaps
+* gulp-uglify
 
-Dev server
-----------
+**Dev server**
 
-browserify-middleware
-express
-node-sass-middleware
-postcss-middleware
+* browserify-middleware
+* express
+* node-sass-middleware
+* postcss-middleware
 
-Commons
--------
+**Commons**
 
-autoprefixer
-babelify
-babel-core
-babel-preset-es2015
-babel-preset-stage-0
-
-
+* autoprefixer
+* babelify
+* babel-core
+* babel-preset-es2015
+* babel-preset-stage-0
