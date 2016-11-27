@@ -1,0 +1,12 @@
+@import "foo/bar";
+@import "acme/misc";
+
+$color: red;
+
+body {
+  display: flex;
+  color: $color;
+  ul {
+    list-style: none;
+  }
+}
