@@ -6,7 +6,6 @@ const autoprefixer = require('autoprefixer')
 const babelify = require('babelify')
 const path = require('path')
 const http = require('http')
-const uglifyify = require('uglifyify')
 
 const destPath = path.join(__dirname, '/dist')
 const app = express()
